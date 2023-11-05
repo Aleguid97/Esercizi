@@ -1,0 +1,105 @@
+/* Your styles here */
+body{font-family: Arial, Helvetica, sans-serif;
+background-color: whitesmoke;}
+a {text-decoration: none;}
+header div {
+    background-color: #222f3f;}
+#logo_amzn {
+            width: 150px;} 
+
+nav div{
+        background-color: #364759;
+        margin-bottom: 2em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;}
+
+nav a{ 
+      text-decoration: none; 
+      color: rgb(254, 255, 255);
+      padding-left: 0.75em; }
+
+div h2 {
+        background-color: orangered; 
+        color: white; 
+        width: 1168px; 
+        margin: auto; 
+        margin-bottom: 2em;
+        font-size: medium; 
+        text-align: center; 
+        padding-top: 1em;
+        padding-bottom: 1em;}
+
+#bgimage{
+         background-image: url(../images/bg-image.png); 
+         background-size: cover;
+         background-repeat: no-repeat; 
+         width: 1160px;
+         font-size: 1em; 
+         text-align: center; 
+         margin: auto;
+         color: white;}
+         
+
+         #bgimage h3 { padding-top: 1em;
+
+         }
+         #bgimage p { padding-bottom: 1em; margin-top: -30px;
+        
+          }
+
+figure{ 
+        background-color: white; 
+        border-radius: 10px; 
+        text-align: left; 
+        padding: 2em;}
+p { 
+    padding: 1em; 
+    margin:auto; 
+    margin-left: 7px; 
+    font-weight: bold;}
+
+span{ 
+    text-decoration: none; 
+    color: cadetblue; 
+    font-size: small; }
+
+figure img { 
+    width: 250px; 
+    height: 300px; 
+    margin-right: 1em; 
+    border-radius: 15px; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+
+.image { 
+        width: 250px; 
+        height:300px;  
+        margin-left: 1em; 
+        border-radius: 15px; 
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+
+#vr { text-align: center;}
+#vr img{ width:1160px ;
+        height: 300px; 
+        border-radius: 15px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+
+#marshall {text-align: center;}
+
+#marshall img { 
+                width:1160px ;
+                height: 300px; 
+                border-radius: 15px;
+                box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+footer {        
+        background-color: #222f3f; 
+        text-align: center;}
+
+footer div{ 
+            background-color: #364759;
+            padding-top: 0.5em;
+            padding-bottom: 0.5em; 
+            text-align: center; }
+
+footer a{color: white;}
+footer img {width: 150px; 
+            padding: 1em;}
